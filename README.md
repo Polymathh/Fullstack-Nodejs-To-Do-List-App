@@ -18,7 +18,7 @@ Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
-Database: MongoDB, MySQL
+Database:MySQL2
 Contributing:
 
 Contributions are welcome! Please feel free to fork this repository and submit pull requests for bug fixes, new features, or improvements.
