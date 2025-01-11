@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: aquamarine;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+
+input{
+    border-radius: 20px;
+    padding: 10px;
+    align-items: left;
+    border: none;
+    color: blue;
+}
+
+
+button{
+    border-radius: 10px;
+
+}
+
+button :hover{
+    background-color: blueviolet;
+    transition: 1s;
+    cursor: pointer;
+}
